@@ -1,6 +1,6 @@
 serverBaseUrl=https://johnnykeypho.xyz/public/file/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity 
 
-appTitle=JOHNNY SHOP CODM
+appTitle=JOHNNY SHOP HACK CODM
 
 game1=JOHNNY SHOP V2|libmain.so|NEW UI. ใช้งานยูไอใหม่.
