@@ -3,4 +3,4 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 appTitle=JOHNNY SHOP HACK CODM
 
-game1=JOHNNY SHOP V2|libmain.so|NEW UI. ใช้งานยูไอใหม่.
+game1=JOHNNY SHOP V2|libmain2.so|NEW UI. ใช้งานยูไอใหม่ V8.0
